@@ -1,0 +1,8 @@
+1...N		1...1
+
+# un proyecto tiene varios hitos
+
+pero 
+
+# una factura no puede tener varios hitos
+ 

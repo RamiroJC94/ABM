@@ -1,0 +1,6 @@
+create table Proveedores(
+    ID_Proveedor int unsigned not null auto_increment,
+    nombre varchar(15) not null,
+    fecha_init TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (ID_Proveedor)
+);

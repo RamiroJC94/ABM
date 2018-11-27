@@ -1,0 +1,5 @@
+CREATE TABLE  `Alta_Proyect` (
+ `ID_Proyecto` INT NOT NULL ,
+ `Legajo` INT NOT NULL ,
+PRIMARY KEY (  `ID_Proyecto` ,  `Legajo` )
+) ENGINE = MYISAM ;

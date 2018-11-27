@@ -1,0 +1,7 @@
+1...1		1...N
+
+# una factura_r puede tener solo un proveedor
+
+pero 
+
+# un proveedor puede tener varias facturas_r asociadas

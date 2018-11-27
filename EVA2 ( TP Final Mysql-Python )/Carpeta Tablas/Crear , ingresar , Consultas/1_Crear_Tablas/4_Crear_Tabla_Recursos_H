@@ -1,0 +1,9 @@
+create table Recursos_H(
+    Legajo int unsigned not null auto_increment,
+    nombre varchar(15) not null,
+    apellido varchar(15) not null,
+    posicion varchar(12) not null,
+    salario int(7) not null,
+    fecha_init TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (Legajo)
+);

@@ -1,0 +1,20 @@
+INSERT INTO `empresa`.`clientes` (`ID_Cliente`, `nombre`, `fecha_init`) 
+VALUES (NULL, 'carlos', CURRENT_TIMESTAMP);
+
+INSERT INTO `empresa`.`clientes` (`ID_Cliente`, `nombre`, `fecha_init`) 
+VALUES (NULL, 'emanuel', CURRENT_TIMESTAMP);
+
+INSERT INTO `empresa`.`clientes` (`ID_Cliente`, `nombre`, `fecha_init`) 
+VALUES (NULL, 'federico', CURRENT_TIMESTAMP);
+
+INSERT INTO `empresa`.`clientes` (`ID_Cliente`, `nombre`, `fecha_init`) 
+VALUES (NULL, 'paez', CURRENT_TIMESTAMP);
+
+INSERT INTO `empresa`.`clientes` (`ID_Cliente`, `nombre`, `fecha_init`) 
+VALUES (NULL, 'Sofi', CURRENT_TIMESTAMP);
+
+INSERT INTO `empresa`.`clientes` (`ID_Cliente`, `nombre`, `fecha_init`) 
+VALUES (NULL, 'Laura', CURRENT_TIMESTAMP);
+
+INSERT INTO `empresa`.`clientes` (`ID_Cliente`, `nombre`, `fecha_init`) 
+VALUES (NULL, 'Ary', CURRENT_TIMESTAMP);

@@ -1,0 +1,6 @@
+create table Historial(
+    ID_Mod int unsigned not null auto_increment,
+    Descripcion varchar(50) not null,
+    fecha_Mod TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (ID_Mod)
+);

@@ -1,0 +1,7 @@
+1...1		1...N
+
+# un proyecto no puede tener varios clientes
+
+pero 
+
+# un cliente puede tener varios proyectos

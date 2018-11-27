@@ -1,0 +1,9 @@
+create table Facturas_P(
+    N°_factura int unsigned not null auto_increment,
+    Monto int(14) not null,
+    Descrip_Hito varchar(40) not null,
+    estado varchar(12),
+    fecha_emicion TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    fecha_pago time,
+    PRIMARY KEY (N°_factura)
+);

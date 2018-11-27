@@ -1,0 +1,4 @@
+SELECT  `nombre` 
+FROM  `recursos_h` 
+WHERE  `posicion` =  'gerente'
+LIMIT 0 , 30

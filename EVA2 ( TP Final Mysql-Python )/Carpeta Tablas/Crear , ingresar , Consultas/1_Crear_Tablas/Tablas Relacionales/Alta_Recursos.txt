@@ -1,0 +1,6 @@
+CREATE TABLE  `Alta_Proyect` (
+ `ID_alta_Proyect` INT NOT NULL ,
+ `ID_Proyecto` INT NOT NULL ,
+ `ID_Recurso` INT NOT NULL ,
+PRIMARY KEY (`ID_alta_Proyect`)
+)

@@ -1,0 +1,9 @@
+1...1		1...1
+
+# un recurso solo puede tener una factura
+
+al igual que 
+
+# una factura solo puede tener un recurso 
+
+pero las separo en dos entidades ( tablas ) para tener las cosas mas organizadas

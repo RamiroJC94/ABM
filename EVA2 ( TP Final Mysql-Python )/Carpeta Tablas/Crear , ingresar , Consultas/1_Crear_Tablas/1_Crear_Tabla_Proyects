@@ -1,0 +1,9 @@
+create table Proyects(
+    ID_Proyect int unsigned not null auto_increment,
+    nombre varchar(15) not null,
+    responsable varchar(15),
+    fecha_init TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    estado varchar(15) not null,
+    Type_proyect varchar(15),
+    PRIMARY KEY (ID_Proyect)
+);

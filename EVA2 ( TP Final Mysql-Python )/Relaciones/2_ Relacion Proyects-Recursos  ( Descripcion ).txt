@@ -1,0 +1,7 @@
+1...N		1...N
+
+# un proyecto puede tener varios recursos
+
+y
+
+# un recurso puede tener varios proyectos

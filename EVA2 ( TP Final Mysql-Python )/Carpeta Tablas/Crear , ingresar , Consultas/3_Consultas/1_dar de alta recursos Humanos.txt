@@ -1,0 +1,5 @@
+INSERT INTO  `empresa`.`alta_proyect` (
+`ID_Proyecto` ,
+`Legajo`
+)
+VALUES ('VALOR DE ID_Proyect',  'VALOR DE Legajo');

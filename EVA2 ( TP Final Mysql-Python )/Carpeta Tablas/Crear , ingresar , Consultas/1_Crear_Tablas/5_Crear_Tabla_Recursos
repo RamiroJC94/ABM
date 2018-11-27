@@ -1,0 +1,10 @@
+create table Recursos(
+    Id int unsigned not null auto_increment,
+    Descripcion varchar(30) not null,
+    Monto int(14) not null,
+    fecha_entrega TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    costo_mensual int(14) not null,
+    estado varchar(12),
+    comprado boolean not null default false,
+    PRIMARY KEY (Id)
+);

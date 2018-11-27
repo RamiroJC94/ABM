@@ -1,0 +1,15 @@
+INSERT INTO  `empresa`.`recursos_h` (
+`Legajo` ,
+`nombre` ,
+`apellido` ,
+`posicion` ,
+`salario` ,
+`fecha_init`
+)
+VALUES (
+NULL ,  'Laura',  'curd',  'gerente',  '5000', 
+CURRENT_TIMESTAMP
+), (
+NULL ,  'Ary',  'Desmas',  'analista',  '1700', 
+CURRENT_TIMESTAMP
+);

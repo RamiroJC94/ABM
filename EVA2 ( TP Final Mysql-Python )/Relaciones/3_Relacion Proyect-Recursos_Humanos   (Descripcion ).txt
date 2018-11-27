@@ -1,0 +1,7 @@
+1...N		1...N
+
+# un proyecto puede tener varias personas asociadas
+
+y
+
+# una persona puede estar asociada a varios proyectos

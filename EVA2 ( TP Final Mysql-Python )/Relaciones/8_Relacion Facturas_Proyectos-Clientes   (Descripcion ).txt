@@ -1,0 +1,8 @@
+1...1		1...N
+
+# una Factura_P solo puede estar asociada a un cliente
+
+pero
+
+# un cliente puede recibir muchas Facturas_P
+

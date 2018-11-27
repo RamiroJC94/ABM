@@ -1,0 +1,5 @@
+1...N		1...1
+
+# un proyecto puede tener varias modificaciones
+
+# una modificacion no puede tener varios proyectos

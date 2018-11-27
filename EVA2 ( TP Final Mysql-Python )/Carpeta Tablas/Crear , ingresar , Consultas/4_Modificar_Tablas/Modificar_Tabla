@@ -1,0 +1,1 @@
+UPDATE `Registro`.`Proyects` SET `nombre` = 'soso', `responsable` = 'Lauri',`estado`='sop' where `ID_Proyect`='1'
